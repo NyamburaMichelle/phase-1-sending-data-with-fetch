@@ -1,30 +1,522 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "df08",
+      "name": "John Doe",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "0a6b",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "cfa0",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "dc3a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "86b8",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9142",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "58db",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "b3e7",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "8d02",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "8071",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e482",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "087f",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f8ae"
+    },
+    {
+      "id": "371f"
+    },
+    {
+      "id": "1c6e"
+    },
+    {
+      "id": "12c5"
+    },
+    {
+      "id": "90ed"
+    },
+    {
+      "id": "bc6c"
+    },
+    {
+      "id": "33e3"
+    },
+    {
+      "id": "6db0"
+    },
+    {
+      "id": "4101"
+    },
+    {
+      "id": "c1bc"
+    },
+    {
+      "id": "3420"
+    },
+    {
+      "id": "d97d"
+    },
+    {
+      "id": "d988"
+    },
+    {
+      "id": "c102"
+    },
+    {
+      "id": "6475"
+    },
+    {
+      "id": "48a8"
+    },
+    {
+      "id": "a249"
+    },
+    {
+      "id": "7468"
+    },
+    {
+      "id": "b002"
+    },
+    {
+      "id": "738d"
+    },
+    {
+      "id": "1707"
+    },
+    {
+      "id": "27cf"
+    },
+    {
+      "id": "00ee"
+    },
+    {
+      "id": "f5bd"
+    },
+    {
+      "id": "bbcb",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9b37",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "b28a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "0589",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e80e",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "91c4",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f2c2",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "95c8",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "effd",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "6750",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "4b01",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e1c9",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9156",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "5f32",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f29c",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9561",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "ee40",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "bedf",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "97b0",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "df2b",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "969a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "25a1",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "cc0e",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9ea7",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9aec",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "7e67",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "458d",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9fe3",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "b6cc",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "098d",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "0a90",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "21bc",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9a05",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "059e",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e76a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "701d",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "2671",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "ee79",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "329f",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e36b",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "bf49",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e4d4",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "44cd",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "3b70",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "6912",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "fd3a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "3590",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "1cde",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9e67",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9121",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "81c9",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "248c",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "7308",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "961a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "e893",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9150",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "bfde",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "06d7",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f9a5",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "5f4a",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "3896",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "9d48",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "240b",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "bfd2",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "7deb",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f018",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "a404",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f703",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "920e",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "c41d",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    },
+    {
+      "id": "f53e",
+      "name": "John Aimable",
+      "email": "johnaimable@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
